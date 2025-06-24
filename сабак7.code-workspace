@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../сабак8"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "сабак7"
+	}
+}
